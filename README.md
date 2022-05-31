@@ -11,6 +11,11 @@
 
 [github.com/jagottsicher/myGoBETuebung-loesung](https://github.com/jagottsicher/myGoBETuebung-loesung)
 
+### Abschnitt Paketmanagement & Go Modules
+[github.com/jagottsicher/myGoModulesBeispiel](https://github.com/jagottsicher/myGoModulesBeispiel)
+
+[github.com/jagottsicher/myGoModulesBeispielLoesung](https://github.com/jagottsicher/myGoModulesBeispielLoesung)
+
 ## Also mentioned in some courses
 [jagottsicher/just-a-go-dummy](https://github.com/jagottsicher/just-a-go-dummy)
 
