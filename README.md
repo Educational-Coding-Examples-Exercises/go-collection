@@ -2,6 +2,10 @@
  A collection of Go/golang Code for educational purposes
 
 ## Crashkurs/Workshop: Programmieren lernen mit Go (golang)
+
+### Komplette Kursübersicht
+[]()
+
 ### Abschnitt Dokumentation, Tests und Benchmarks
 [github.com/jagottsicher/meaning](https://github.com/jagottsicher/meaning)
 
