@@ -20,7 +20,24 @@
 
 [github.com/jagottsicher/myGoModulesBeispielLoesung](https://github.com/jagottsicher/myGoModulesBeispielLoesung)
 
-## Also mentioned in some courses
+## ebenfalls erwähnt in einigen Lektionen
 [jagottsicher/just-a-go-dummy](https://github.com/jagottsicher/just-a-go-dummy)
 
 [github.com/jagottsicher/hundejahre](https://github.com/jagottsicher/hundejahre)
+
+## externe Resourcen:
+Links zu wichtigen allgemein zugänglichen Quellen zur Programmiersprache Go (golang)
+
+[go.dev]() und go.dev/play[]()
+
+[pkg.go.dev]() bzw [pkg.go.dev/std]()
+
+[blog.go.dev]()
+
+[go.dev/play]()
+
+[go.dev/doc/effective_go]()
+
+[go.dev/doc/faq]() 
+
+[gobyexample.com]()gobyexample.com
