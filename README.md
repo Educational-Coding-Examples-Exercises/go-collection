@@ -32,12 +32,12 @@ Links zu wichtigen allgemein zugänglichen Quellen zur Programmiersprache Go (go
 
 [pkg.go.dev](https://pkg.go.dev) und insbesondere [pkg.go.dev/std](https://pkg.go.dev/std)
 
-[blog.go.dev](https://blog.go.dev) Oldie, bu goldie.
+[blog.go.dev](https://blog.go.dev) Oldies but goldies.
 
 [go.dev/play](https://go.dev/play) Auf zum Spielplatz!
 
-[go.dev/doc/effective_go](https://go.dev/doc/effective_go)
+[go.dev/doc/effective_go](https://go.dev/doc/effective_go) Beispiele und typische Anwendungen von Programmierkonzepten in Go.
 
-[go.dev/doc/faq](https://go.dev/doc/faq) 
+[go.dev/doc/faq](https://go.dev/doc/faq) Immer wieder gestellte Fragen - und Antworten!
 
 [gobyexample.com](https://gobyexample.com) Fast alles mal schnell als Beispiel.
