@@ -20,24 +20,24 @@
 
 [github.com/jagottsicher/myGoModulesBeispielLoesung](https://github.com/jagottsicher/myGoModulesBeispielLoesung)
 
-## ebenfalls erwähnt in einigen Lektionen
+## Erwähnt in einigen Lektionen
 [jagottsicher/just-a-go-dummy](https://github.com/jagottsicher/just-a-go-dummy)
 
 [github.com/jagottsicher/hundejahre](https://github.com/jagottsicher/hundejahre)
 
-## externe Resourcen:
+## Externe Resourcen:
 Links zu wichtigen allgemein zugänglichen Quellen zur Programmiersprache Go (golang)
 
 [go.dev](https://go.dev) und [go.dev/play](https://go.dev/play)
 
-[pkg.go.dev](https://pkg.go.dev) bzw [pkg.go.dev/std](https://pkg.go.dev/std)
+[pkg.go.dev](https://pkg.go.dev) und insbesondere [pkg.go.dev/std](https://pkg.go.dev/std)
 
-[blog.go.dev](https://blog.go.dev)
+[blog.go.dev](https://blog.go.dev) Oldie, bu goldie.
 
-[go.dev/play](https://go.dev/play)
+[go.dev/play](https://go.dev/play) Auf zum Spielplatz!
 
 [go.dev/doc/effective_go](https://go.dev/doc/effective_go)
 
 [go.dev/doc/faq](https://go.dev/doc/faq) 
 
-[gobyexample.com](https://gobyexample.com)
+[gobyexample.com](https://gobyexample.com) Fast alles mal schnell als Beispiel.
