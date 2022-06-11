@@ -28,16 +28,16 @@
 ## externe Resourcen:
 Links zu wichtigen allgemein zugänglichen Quellen zur Programmiersprache Go (golang)
 
-[go.dev]() und go.dev/play[]()
+[go.dev](https://go.dev) und [go.dev/play](https://go.dev/play)
 
-[pkg.go.dev]() bzw [pkg.go.dev/std]()
+[pkg.go.dev](https://pkg.go.dev) bzw [pkg.go.dev/std](https://pkg.go.dev/std)
 
-[blog.go.dev]()
+[blog.go.dev](https://blog.go.dev)
 
-[go.dev/play]()
+[go.dev/play](https://go.dev/play)
 
-[go.dev/doc/effective_go]()
+[go.dev/doc/effective_go](https://go.dev/doc/effective_go)
 
-[go.dev/doc/faq]() 
+[go.dev/doc/faq](https://go.dev/doc/faq) 
 
-[gobyexample.com]()gobyexample.com
+[gobyexample.com](https://gobyexample.com)
