@@ -41,3 +41,5 @@ Links zu wichtigen allgemein zugänglichen Quellen zur Programmiersprache Go (go
 [go.dev/doc/faq](https://go.dev/doc/faq) Immer wieder gestellte Fragen - und Antworten!
 
 [gobyexample.com](https://gobyexample.com) Fast alles mal schnell als Beispiel.
+
+[forum.golangbridge.org](forum.golangbridge.org/) ist ein seit Jahren aktives (englishsprachiges) Forum für Go programmierer.
