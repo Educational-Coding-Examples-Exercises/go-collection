@@ -4,7 +4,7 @@
 ## Crashkurs/Workshop: Programmieren lernen mit Go (golang)
 
 ### Komplette Kursübersicht
-[Kursübersicht als PDF v1.0.5 (ca. 460Kb)](https://github.com/Educational-Coding-Examples-Exercises/go-collection/raw/main/docs/Kurs%C3%BCbersicht%20-%20Programmieren%20lernen%20mit%20Go%20(golang).pdf)
+[Kursübersicht als PDF v1.0.5 (ca. 555Kb)](https://github.com/Educational-Coding-Examples-Exercises/go-collection/raw/main/docs/Kurs%C3%BCbersicht%20-%20Programmieren%20lernen%20mit%20Go%20(golang).pdf)
 
 ### Abschnitt Dokumentation, Tests und Benchmarks
 [github.com/jagottsicher/meaning](https://github.com/jagottsicher/meaning)
